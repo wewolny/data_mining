@@ -1,4 +1,4 @@
-# Markdowne syntax exercise
+# Markdown syntax exercise
 
 # Header
 ## Smaller header
@@ -12,13 +12,26 @@
 | 5 | 6 | 7 | 8 |
 
 ## Hyperlink
+Example of a hyperlink: [Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
 ## Lists
 
 ### Ordered list
 
+1. Item one
+2. Item two
+    1. Item one
+    2. Item two
+3. Item three
+
 ### Unordered list
 
-## Formating text
+- Item one
+- Item two
+    - Item one
+    - Item two
+- Item three
 
-## Equasion
+## Formatting text
+
+## Equation
