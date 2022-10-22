@@ -34,4 +34,10 @@ Example of a hyperlink: [Basic Syntax | Markdown Guide](https://www.markdownguid
 
 ## Formatting text
 
+This text is **bold**  
+This text is *italicized*  
+This text is ***bold and italicized***
+
 ## Equation
+
+$ d = {|A_0 + Bx_0 + C| \over \sqrt{A^2 + B^2}} $
