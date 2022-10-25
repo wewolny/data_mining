@@ -40,4 +40,4 @@ This text is ***bold and italicized***
 
 ## Equation
 
-$ d = {|A_0 + Bx_0 + C| \over \sqrt{A^2 + B^2}} $
+$$ d = {|A_0 + Bx_0 + C| \over \sqrt{A^2 + B^2}} $$
